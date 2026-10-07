@@ -46,7 +46,6 @@
 - CNNs
 - RNNs
 - LSTMs
-- GRUs
 
 ### Generative AI
 `Transformers` `LLMs` `RAG` `LangGraph`
