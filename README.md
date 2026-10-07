@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Chandrakiran 👋
 
-<!--
-**chandu0302/chandu0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+🤖 AI/ML & Software Engineering  
+💻 Competitive Programmer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### 🤖 AI / Machine Learning
+
+Python · PyTorch · TensorFlow · Scikit-learn  
+NumPy · Pandas · Transformers · LLMs  
+RAG · AI Agents · LangGraph · Computer Vision · ONNX
+
+### 💻 Competitive Programming & DSA
+
+C++ · Data Structures · Algorithms · Dynamic Programming  
+Graphs · Trees · Greedy · Binary Search · Backtracking  
+LeetCode · CodeChef
+
+### ⚙️ Software Engineering
+
+React · Node.js · Express.js · FastAPI  
+REST APIs · MongoDB · PostgreSQL  
+Git · GitHub · Docker · Linux
+
+---
+
+## 🚀 Featured Projects
+
+📌 Recoup — AI Payment Recovery Agent  
+📌 Entity Resolution — Large-scale ML pipeline  
+📌 On-device Browser Agent — Privacy-focused AI  
+📌 Online Judge — Full-stack coding platform
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn · LeetCode · CodeChef
