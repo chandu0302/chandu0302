@@ -1,62 +1,76 @@
-# Hi, I'm Chandrakiran 👋
+<h1 align="center">✨ Hey, I'm Chandrakiran ✨</h1>
 
-🎓 B.Tech Computer Science & Engineering Student  
-🤖 AI/ML Enthusiast | 💻 Competitive Programmer  
-🚀 Interested in Machine Learning, Generative AI & Software Engineering
+<h3 align="center">🤖 AI/ML • 💻 Competitive Programming • ⚙️ Software Engineering</h3>
+
+<p align="center">
+  Building AI/ML systems, exploring Generative AI, and solving problems with C++.
+</p>
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Build and experiment with **AI/ML systems**
+- 🧠 Explore **Generative AI, LLMs & AI Agents**
+- 💻 Practice **Competitive Programming & Data Structures**
+- ⚙️ Build backend and software engineering projects
+- 🏆 Participate in hackathons and competitive programs
+
+---
+
+## 🏆 Achievements
+
+- 🏆 **Razorpay AI Buildathon — Finalist**
+  - Selected as an **AI Builder Intern**
+- 🎓 **AlgoUniversity Tech Fellowship (ATF)**
+  - Selected among the **top 0.1% of applicants**
 
 ---
 
 ## 🤖 AI / Machine Learning
 
 ### Machine Learning
+`Scikit-learn` `Pandas` `NumPy` `LightGBM`
+
 - Supervised & Unsupervised Learning
 - Feature Engineering
 - Model Evaluation & Validation
 - Classification & Regression
 - Ensemble Learning
-- Hyperparameter Optimization
 - Model Calibration
 
 ### Deep Learning
+`PyTorch` `TensorFlow`
+
 - Neural Networks
-- CNN
-- RNN
-- LSTM
-- GRU
-- PyTorch
-- TensorFlow
+- CNNs
+- RNNs
+- LSTMs
+- GRUs
 
-### Data Science
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Data Preprocessing
-- Exploratory Data Analysis
+### Generative AI
+`Transformers` `LLMs` `RAG` `LangGraph`
 
-### Generative AI & LLMs
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
+- Large Language Models
+- Retrieval-Augmented Generation
 - AI Agents
-- LangGraph
-- Transformers
-- Tool Calling
+- Prompt Engineering
 - Embeddings
+- Tool Calling
 
 ### Computer Vision & On-Device AI
-- YOLO
-- ONNX
-- ONNX Runtime
-- WebGPU
+`YOLO` `ONNX` `ONNX Runtime` `WebGPU`
+
+- Object Detection
 - Image Processing
 - On-device Inference
+- Model Optimization
 
 ### ML Engineering
+
 - Model Serving
 - Inference Optimization
 - Data Pipelines
-- Model Evaluation
 - Experimentation
 - ML System Design
 
@@ -64,82 +78,67 @@
 
 ## 💻 Competitive Programming & DSA
 
-**Language:** C++
+**Language:** `C++`
 
 ### Data Structures
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Hash Tables
-- Trees & Binary Trees
-- Heaps
-- Graphs
-- Tries
+
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues`  
+`Hashing` `Trees` `Heaps` `Graphs` `Tries`
 
 ### Algorithms
-- Binary Search
-- Two Pointers
-- Sliding Window
-- Greedy Algorithms
-- Backtracking
-- Dynamic Programming
-- Graph Algorithms
-- Shortest Path
-- MST
-- Topological Sort
-- String Algorithms
 
-**Platforms:**  
-LeetCode · CodeChef
+`Binary Search` `Two Pointers` `Sliding Window`  
+`Greedy` `Backtracking` `Dynamic Programming`  
+`Graph Algorithms` `Shortest Path` `MST` `Topological Sort`  
+`String Algorithms`
+
+**Platforms:** LeetCode · CodeChef
 
 ---
 
-## ⚙️ Software Engineering
+## ⚙️ Languages & Development
 
-**Languages:**  
-C++ · Python · JavaScript
+**Languages**
 
-**Backend:**  
-Node.js · Express.js · FastAPI · REST APIs
+`C++` `Python` `JavaScript` `SQL`
 
-**Frontend:**  
-React · HTML · CSS
+**Backend**
 
-**Databases:**  
-MongoDB · PostgreSQL
+`Node.js` `Express.js` `FastAPI` `REST APIs`
 
-**Tools & DevOps:**  
-Git · GitHub · Docker · Linux
+**Frontend**
 
----
+`React` `HTML` `CSS`
 
-## 🚀 Featured Projects
+**Databases**
 
-### 🤖 Recoup
-AI-powered failed-payment recovery agent.
+`MongoDB` `PostgreSQL`
 
-### 🧠 Entity Resolution
-Large-scale ML pipeline for entity matching and record linkage.
+**Tools**
 
-### 👁️ On-device Browser Agent
-Privacy-preserving browser agent with on-device PII detection.
-
-### ⚖️ Online Judge
-Full-stack competitive programming platform.
+`Git` `GitHub` `Docker` `Linux`
 
 ---
 
-## 🏆 Achievements
+## 🌱 Currently Learning
 
-- 🏆 Hackathons & AI/ML competitions
-- 💻 Competitive Programming
-- 🧠 Machine Learning Projects
-- 📈 LeetCode & CodeChef
+`Advanced Machine Learning` · `LLM Systems` · `AI Agents` · `System Design`
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN) ·
-[LeetCode](YOUR_LEETCODE) ·
-[CodeChef](YOUR_CODECHEF)
+<p align="left">
+  <a href="https://www.linkedin.com/in/chandrakiran-budige-377ab9313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Chandrakiran%20Budige-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandu0302&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu0302&layout=compact&hide_border=true" height="165"/>
+</p>
